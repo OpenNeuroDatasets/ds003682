@@ -1,0 +1,23 @@
+{
+    "MEGCoordinateSystem": "CTF",
+    "MEGCoordinateUnits": "cm",
+    "HeadCoilCoordinates": {
+        "NAS": [
+            0.0,
+            0.09710885167055917,
+            0.0
+        ],
+        "LPA": [
+            -0.08031134268700428,
+            -2.77677789740487e-19,
+            0.0
+        ],
+        "RPA": [
+            0.06941725080647777,
+            2.809596488762234e-19,
+            0.0
+        ]
+    },
+    "HeadCoilCoordinateSystem": "ALS",
+    "HeadCoilCoordinateUnits": "cm"
+}
