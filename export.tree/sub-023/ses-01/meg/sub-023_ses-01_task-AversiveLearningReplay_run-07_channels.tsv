@@ -1,0 +1,415 @@
+name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status
+SCLK01-177	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+BG1-2910	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BG2-2910	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BG3-2910	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BP1-2910	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BP2-2910	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BP3-2910	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BR1-2910	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BR2-2910	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BR3-2910	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+G11-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+G12-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+G13-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+G22-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+G23-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+P11-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+P12-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+P13-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+P22-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+P23-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+Q11-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+Q12-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+Q13-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+Q22-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+Q23-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+R11-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+R12-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+R13-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+R22-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+R23-2910	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+MLC11-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC12-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC13-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC14-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC15-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC16-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC17-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC21-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC22-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC23-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC24-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC25-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC31-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC32-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC41-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC42-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC51-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC52-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC53-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC54-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC55-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC61-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC62-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLC63-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF11-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF12-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF13-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF14-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF21-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF22-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF23-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF24-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF25-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF31-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF32-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF33-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF34-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF35-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF41-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF42-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF43-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF44-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF45-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF46-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF51-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF52-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF53-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF54-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF55-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF56-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF61-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF62-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF63-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF64-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF65-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF66-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLF67-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO11-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO12-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO13-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO14-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO21-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO22-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO23-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO24-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO31-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO32-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO33-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO34-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO41-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO43-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO44-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO51-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO52-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLO53-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP11-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP12-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP21-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP22-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP23-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP31-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP32-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP33-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP34-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP35-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP41-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP42-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP43-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP44-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP45-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP51-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP52-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP53-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP54-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP55-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP56-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLP57-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT11-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT12-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT13-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT14-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT15-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT16-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT21-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT22-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT23-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT24-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT25-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT26-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT27-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT31-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT32-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT33-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT34-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT35-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT36-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT37-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT41-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT42-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT43-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT44-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT45-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT46-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT47-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT51-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT52-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT53-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT55-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT56-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MLT57-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC11-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC13-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC14-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC15-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC16-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC17-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC21-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC22-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC23-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC24-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC25-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC31-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC32-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC41-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC42-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC51-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC52-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC53-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC54-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC55-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC61-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC62-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRC63-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF11-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF12-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF13-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF14-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF21-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF22-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF23-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF24-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF25-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF31-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF32-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF33-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF34-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF35-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF41-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF42-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF43-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF44-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF45-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF46-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF51-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF52-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF53-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF54-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF55-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF56-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF61-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF62-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF63-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF64-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF65-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF66-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRF67-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO11-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO12-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO13-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO14-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO21-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO22-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO23-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO24-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO31-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO32-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO33-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO34-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO41-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO42-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO43-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO44-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO51-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO52-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRO53-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP11-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP12-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP21-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP22-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP23-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP31-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP32-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP33-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP34-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP35-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP41-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP42-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP43-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP44-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP45-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP51-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP52-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP53-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP54-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP55-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP56-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRP57-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT11-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT12-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT13-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT14-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT15-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT16-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT21-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT22-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT23-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT24-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT25-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT26-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT27-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT31-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT32-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT33-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT34-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT35-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT36-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT37-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT41-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT42-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT43-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT44-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT45-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT46-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT47-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT51-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT52-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT53-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT54-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT55-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT56-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MRT57-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MZC01-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MZC02-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MZC03-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MZC04-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MZF01-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MZF02-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MZF03-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MZO01-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MZO02-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MZO03-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+MZP01-2910	OTHER	T	0.0	600.0	Other type of channel	1200.0	good
+HADC001-2901	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HADC002-2901	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HADC003-2901	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HDAC001-2901	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HDAC002-2901	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HDAC003-2901	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+UADC001-2910	EOG	V	0.0	600.0	ElectroOculoGram	1200.0	good
+UADC002-2901	EOG	V	0.0	600.0	ElectroOculoGram	1200.0	good
+UADC003-2901	EOG	V	0.0	600.0	ElectroOculoGram	1200.0	good
+UADC004-2901	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+UPPT001	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+UPPT002	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0011-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0012-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0013-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0021-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0022-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0023-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0031-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0032-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0033-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0018-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0028-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0038-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT101	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN101	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU101	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC101	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT103	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN103	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU103	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC103	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT105	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN105	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU105	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC105	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT106	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN106	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU106	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC106	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT107	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN107	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU107	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC107	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT108	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN108	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU108	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC108	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT109	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN109	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU109	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC109	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT110	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN110	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU110	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC110	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT701	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN701	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU701	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC701	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT702	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN702	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU702	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC702	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT703	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN703	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU703	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC703	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT704	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN704	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU704	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC704	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT705	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN705	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU705	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC705	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT706	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN706	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU706	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC706	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT707	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN707	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU707	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC707	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT708	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN708	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU708	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC708	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT709	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN709	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU709	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC709	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MSTAT710	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MRSYN710	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MPLLU710	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+MMSTC710	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0014-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0015-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0016-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0017-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0024-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0025-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0026-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0027-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0034-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0035-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0036-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
+HLC0037-2104	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
